@@ -31,4 +31,4 @@ Here is what I do with this model:
 
 
 **After experimenting with the model and creating the model**</br>
-**It was found that the provided model gave the best Accuracy value at 0.8346. If the amount of data in training was increased than this, the Accuracy value would also increase. As for the model that was created by itself, it can be used as well. But it's not as good as the model offered.**
+**It was found that the provided model gave the best Accuracy value at 0.8346. If the amount of data in training was increased than this, the Accuracy value would also increase. As for the model that was created by itself, it can be used as well. But it's not as good as Bi-directional-RNNs model**
