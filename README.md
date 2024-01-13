@@ -20,14 +20,13 @@ Here is what I do with this model:
  <img src="https://github.com/Ferryjeerakit/Machine_translation_Bi-directional-RNNs/assets/153589125/2b437237-7bb4-4009-9ac5-3aeef877ea53" width="800" height="400"></br>
  <img src="https://github.com/Ferryjeerakit/Machine_translation_Bi-directional-RNNs/assets/153589125/7bf5d0a9-53f1-4c7b-82d4-c868ddd519f5)" width="800" height="400"></br>
 * Result after finetuning</br></br>
- <img src="https://github.com/Ferryjeerakit/Machine_translation_Bi-directional-RNNs/assets/153589125/36bce6de-5c27-464f-96a4-ba9ff7ab57f8" width="800" height="400"></br></br>
+ <img src="https://github.com/Ferryjeerakit/Machine_translation_Bi-directional-RNNs/assets/153589125/36bce6de-5c27-464f-96a4-ba9ff7ab57f8" width="800" height="400"></br>
 
 
 * Build a model from scratch, train the model with the custom dataset, and compare the result with the pre-trained model using seq2seq</br></br>
-
 <img src="https://github.com/Ferryjeerakit/Machine_translation_Bi-directional-RNNs/assets/153589125/29faf75b-99fd-45c5-9b7b-017df9663704" width="800" height="400"></br>
 <img src="https://github.com/Ferryjeerakit/Machine_translation_Bi-directional-RNNs/assets/153589125/4849aba4-8d35-481f-a317-161afce54750" width="800" height="400"></br>
-<img src="https://github.com/Ferryjeerakit/Machine_translation_Bi-directional-RNNs/assets/153589125/8341ac69-1b60-4a6f-927c-5c90fcd0fa69" width="800" height="400"></br></br>
+<img src="https://github.com/Ferryjeerakit/Machine_translation_Bi-directional-RNNs/assets/153589125/8341ac69-1b60-4a6f-927c-5c90fcd0fa69" width="800" height="400"></br>
 
 
 **After experimenting with the model and creating the model**</br>
